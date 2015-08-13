@@ -1,0 +1,18 @@
+{
+  "name": "simple-qs",
+  "version": "1.0.0",
+  "description": "simple querystring parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "querystring"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peet/simple-qs"
+  },
+  "author": "Peet <npm@peet.me.uk>",
+  "license": "MIT"
+}
